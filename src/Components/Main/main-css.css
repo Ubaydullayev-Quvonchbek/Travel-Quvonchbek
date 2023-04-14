@@ -1,0 +1,84 @@
+.place {
+    font-weight: 500;
+    font-size: 16px;
+    color: #161414;
+    margin-bottom: 11px;
+    margin-top: 11px;
+}
+
+.Card {
+    width: 100%;
+}
+
+.location {
+    font-weight: 400;
+    font-size: 13px;
+    margin: 0;
+    color: #979797;
+}
+
+.img {
+    margin-right: 30px;
+}
+
+.placeName {
+    font-weight: 600;
+    font-size: 20px;
+    color: #161414;
+    margin-bottom: 16px;
+}
+
+.lorem {
+    font-weight: 400;
+    font-size: 16px;
+    color: #5B5B5B;
+}
+
+.all-list {
+    display: flex;
+    align-items: center;
+    margin-top: 175px;
+}
+
+.txt-all {
+    font-weight: 400;
+    font-size: 12px;
+    color: #878787;
+    margin: 0;
+    margin-right: 25px;
+}
+
+.fa-regular {
+    margin-right: 5px;
+}
+
+.str {
+    margin-left: 15px;
+    height: 380px;
+}
+
+.typeCard {
+    margin: 0;
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #161414;
+}
+
+.view-all {
+    font-weight: 400;
+    font-size: 16px;
+    color: #5243C2;
+    padding: 15px;
+    background: #F6F4FF;
+    border-radius: 12px;
+    border: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 65px;
+    margin-top: 120px;
+}
+
+.fa-arrow-right {
+    margin-left: 7px;
+}
